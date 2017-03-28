@@ -1,3 +1,7 @@
+body {
+  width: 1355px;
+}
+
 header { /*Tout ce qu'il y a après jusqu'au prochain commentaire concerne mon header */
   margin: 15px;
 }
