@@ -12,8 +12,12 @@ header a {
   padding-top: 4px;
   padding-right: 4px;
   color: #696969;
-
 }
+
+a:hover {
+  text-decoration: underline;
+}
+
  header img {
    float: right;
    display: inline-block;
