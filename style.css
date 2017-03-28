@@ -35,3 +35,48 @@ header button {
   margin-right: 7px;
 }
 
+.Google { /*ici c'est une image de google*/
+  margin-left: 527px;
+  margin-top: 175px;
+}
+
+input {
+  width: 585.5px;
+  height: 45px;
+  margin-top: 20px;
+  margin-left: 389px;
+  border-radius: 3px;
+  border: 1px ridge #DCDCDC;
+  padding-top: 15px;
+  box-shadow: 0px 4px 3px 1px #DCDCDC;
+}
+
+
+.LeftButton {
+  float: left;
+  margin-left: 520px;
+  margin-top: 15px;
+  background-color: #EFEFEF;
+  height: 35px;
+  width: 150px;
+  border: 1px ridge #EFEFEF;
+  color: #798081;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.RightButton {
+  float: right;
+  margin-right: 520px;
+  margin-top: 15px;
+  background-color: #EFEFEF;
+  height: 35px;
+  width: 150px;
+  border: 1px ridge #EFEFEF;
+  color: #798081;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 13px;
+}
+
