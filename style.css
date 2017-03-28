@@ -14,7 +14,7 @@ header a {
   color: #696969;
 }
 
-a:hover {
+a:hover { /*Me permet de souligner mon lien lorsqu'il est pointé par la souris*/
   text-decoration: underline;
 }
 
@@ -45,7 +45,7 @@ header button {
   margin-top: 175px;
 }
 
-input {
+input { /*Ma barre pour entrer la recherche*/
   width: 585.5px;
   height: 45px;
   margin-top: 20px;
