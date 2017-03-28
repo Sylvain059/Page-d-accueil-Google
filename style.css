@@ -80,3 +80,32 @@ input {
   font-size: 13px;
 }
 
+footer {
+  width: 1355px;
+  height:37px;
+  background-color: #EFEFEF;
+  margin-top: 152px;
+  border: 1px ridge #DCDCDC;
+  font-size: 12px;
+  font-family: Arial;
+  color: #798081;
+}
+
+.left { /*Concerne les mots en pied de page à gauche*/
+  display: inline-block;
+  float: left;
+  background-color: #;
+  padding: 2px;
+  padding-left: 30px;
+  padding-bottom: px;
+  margin-left: px;
+  margin-right: px
+}
+
+.right { /*Concerne les mots en pied de page à droite*/
+  display: inline-block;
+  float: right;
+  padding: 2px;
+  padding-right: 30px;
+  padding-bottom: 3px;
+}
