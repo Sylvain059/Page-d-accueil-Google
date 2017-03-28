@@ -1,0 +1,111 @@
+header { /*Tout ce qu'il y a après jusqu'au prochain commentaire concerne mon header */
+  margin: 15px;
+}
+
+header p {
+  float: right;
+  display: inline-block;
+  margin: 5px;
+  font-size: 13px;
+  font-family: arial;
+  padding-top: 4px;
+  padding-right: 4px;
+  color: #798081;
+
+}
+ header img {
+   float: right;
+   display: inline-block;
+   padding: 5px;
+   margin-left: 10px;
+   margin-right: 10px;
+ }
+
+header button {
+  float: right;
+  display: inline-block;
+  width: 93px;
+  height: 30px;
+  background-color: #318CE7;
+  color: white;
+  font-size: 13px;
+  border-radius: 2px;
+  border: none;
+  margin-top: 1px;
+  margin-right: 7px;
+}
+
+.Google { /*ici c'est une image de google*/
+  margin-left: 527px;
+  margin-top: 175px;
+}
+
+input {
+  width: 585.5px;
+  height: 45px;
+  margin-top: 20px;
+  margin-left: 389px;
+  border-radius: 3px;
+  border: 1px ridge #DCDCDC;
+  padding-top: 15px;
+  box-shadow: 0px 4px 3px 1px #DCDCDC;
+}
+
+
+.LeftButton {
+  float: left;
+  margin-left: 520px;
+  margin-top: 15px;
+  background-color: #EFEFEF;
+  height: 35px;
+  width: 150px;
+  border: 1px ridge #EFEFEF;
+  color: #798081;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.RightButton {
+  float: right;
+  margin-right: 520px;
+  margin-top: 15px;
+  background-color: #EFEFEF;
+  height: 35px;
+  width: 150px;
+  border: 1px ridge #EFEFEF;
+  color: #798081;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+footer {
+  width: 1355px;
+  height:37px;
+  background-color: #EFEFEF;
+  margin-top: 152px;
+  border: 1px ridge #DCDCDC;
+  font-size: 12px;
+  font-family: Arial;
+  color: #798081;
+}
+
+.left { /*Concerne les mots en pied de page à gauche*/
+  display: inline-block;
+  float: left;
+  background-color: #;
+  padding: 2px;
+  padding-left: 30px;
+  padding-bottom: px;
+  margin-left: px;
+  margin-right: px
+}
+
+.right { /*Concerne les mots en pied de page à droite*/
+  display: inline-block;
+  float: right;
+  padding: 2px;
+  padding-right: 30px;
+  padding-bottom: 3px;
+}
