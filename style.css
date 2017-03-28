@@ -2,15 +2,16 @@ header { /*Tout ce qu'il y a après jusqu'au prochain commentaire concerne mon h
   margin: 15px;
 }
 
-header p {
+header a {
   float: right;
   display: inline-block;
   margin: 5px;
+  text-decoration: none;
   font-size: 13px;
   font-family: arial;
   padding-top: 4px;
   padding-right: 4px;
-  color: #798081;
+  color: #696969;
 
 }
  header img {
