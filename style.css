@@ -1,5 +1,5 @@
 body {
-  width: 1355px;
+  width: 1345px;
 }
 
 header { /*Tout ce qu'il y a après jusqu'au prochain commentaire concerne mon header */
@@ -49,6 +49,8 @@ header button {
   margin-top: 175px;
 }
 
+
+
 input { /*Ma barre pour entrer la recherche*/
   width: 585.5px;
   height: 45px;
@@ -89,11 +91,13 @@ input { /*Ma barre pour entrer la recherche*/
   font-size: 13px;
 }
 
+
+
 footer {
-  width: 1355px;
+  width: 1345px;
   height:37px;
   background-color: #EFEFEF;
-  margin-top: 152px;
+  margin-top: 160px;
   border: 1px ridge #DCDCDC;
   font-size: 12px;
   font-family: Arial;
@@ -101,20 +105,33 @@ footer {
 }
 
 .left { /*Concerne les mots en pied de page à gauche*/
+  width: 300px;
+  margin: 7px 0 0 5px;
   display: inline-block;
-  float: left;
-  background-color: #;
-  padding: 2px;
-  padding-left: 30px;
-  padding-bottom: px;
-  margin-left: px;
-  margin-right: px
+  border: 1px solid black;
+
+}
+
+.pLeft {
+  width: auto;
+  font-size: 12px;
+  display: inline-block;
+  margin: 5px 16px 6px 16px;
+
 }
 
 .right { /*Concerne les mots en pied de page à droite*/
+  width: auto;
+  margin: -30px 0 0 915px;
   display: inline-block;
-  float: right;
-  padding: 2px;
-  padding-right: 30px;
-  padding-bottom: 3px;
+  border: 1px solid black;
+
+}
+
+.pRight {
+  width: auto;
+  font-size: 13px;
+  display: inline-block;
+  margin: 5px 11px 0 11px ;
+
 }
